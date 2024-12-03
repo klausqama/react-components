@@ -1,6 +1,6 @@
 export default function Button(){
     return(
-        <button>
+        <button className="btn">
             leggi di piu
         </button>
     )
